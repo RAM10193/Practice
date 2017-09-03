@@ -1,0 +1,688 @@
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61
+ The line number:1is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 1
+ The line number:2is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 2
+ The line number:3is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 3
+ The line number:4is validated and same content matches.
+File1 has '**Cognizant Technology Solutions India Private Ltd**' and File2 has '**Cognizant Technology Solutions India Private Ltd**' at line 4
+ The line number:5is validated and same content matches.
+File1 has '**Payslip for the month of Nov 2016**' and File2 has '**Payslip for the month of Nov 2016**' at line 5
+ The line number:6is validated and same content matches.
+File1 has '**Financial Period 2016­2017**' and File2 has '**Financial Period 2016­2017**' at line 6
+ The line number:7is validated and same content matches.
+File1 has '**Private & Confidential**' and File2 has '**Private & Confidential**' at line 7
+ The line number:8is validated and same content matches.
+File1 has '**Associate Information**' and File2 has '**Associate Information**' at line 8
+ The line number:17is validated and same content matches.
+File1 has '**SA Policy No ­ Paid Days 30**' and File2 has '**SA Policy No ­ Paid Days 30**' at line 17
+ The line number:18is validated and same content matches.
+File1 has '**SA LIC ID ­ Loss of Pay Days 0**' and File2 has '**SA LIC ID ­ Loss of Pay Days 0**' at line 18
+ The line number:19is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 19
+ The line number:20is validated and same content matches.
+File1 has '**Earnings Amount**' and File2 has '**Earnings Amount**' at line 20
+ The line number:23is validated and same content matches.
+File1 has '**Conveyance Allowance 1,600**' and File2 has '**Conveyance Allowance 1,600**' at line 23
+ The line number:25is validated and same content matches.
+File1 has '**Advance Statutory Bonus 2,000**' and File2 has '**Advance Statutory Bonus 2,000**' at line 25
+ The line number:26is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 26
+ The line number:27is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 27
+ The line number:28is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 28
+ The line number:29is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 29
+ The line number:30is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 30
+ The line number:31is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 31
+ The line number:32is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 32
+ The line number:34is validated and same content matches.
+File1 has '**Deductions Amount**' and File2 has '**Deductions Amount**' at line 34
+ The line number:39is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 39
+ The line number:40is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 40
+ The line number:41is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 41
+ The line number:42is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 42
+ The line number:43is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 43
+ The line number:44is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 44
+ The line number:45is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 45
+ The line number:46is validated and same content matches.
+File1 has '**.**' and File2 has '**.**' at line 46
+ The line number:48is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 48
+ The line number:49is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 49
+ The line number:51is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 51
+ The line number:52is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 52
+ The line number:53is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 53
+ The line number:54is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 54
+ The line number:55is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 55
+ The line number:56is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 56
+ The line number:57is validated and same content matches.
+File1 has '** **' and File2 has '** **' at line 57
+ The line number:58is validated and same content matches.
+File1 has '**This computer generated Payslip is not valid unless authorized**' and File2 has '**This computer generated Payslip is not valid unless authorized**' at line 58
+ The line number:59is validated and same content matches.
+File1 has '**Authorization**' and File2 has '**Authorization**' at line 59
+ The line number:60is validated and same content matches.
+File1 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' and File2 has '**Registered Office:Cognizant Technology Solutions India Private Limited**' at line 60
+ The line number:61is validated and same content matches.
+File1 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' and File2 has '**# 5/535, old Mahabalipuram Road, Chennai ­ 600 097.**' at line 61

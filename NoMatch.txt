@@ -1,0 +1,324 @@
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
+ The line number:9is validated and same content does not match.
+File1 has '**Mr. Ramkumar K**' and File2 has '**Ms. Geetha S**' at line 9
+ The line number:10is validated and same content does not match.
+File1 has '**Associate Id 483696 Location COG Ramanujan Campus (CRC) SEZ**' and File2 has '**Associate Id 251016 Location COG Ramanujan Campus (CRC) SEZ**' at line 10
+ The line number:11is validated and same content does not match.
+File1 has '**Designation Programmer Analyst PAN BIDPR5537H**' and File2 has '**Designation Technical Lead PAN AWEPG2745C**' at line 11
+ The line number:12is validated and same content does not match.
+File1 has '**Gender Male Bank A/C 50100072790375**' and File2 has '**Gender Female Bank A/C 905583552**' at line 12
+ The line number:13is validated and same content does not match.
+File1 has '**Date Of Joining 29­Jan­2015 IFSC Code HDFC0001852**' and File2 has '**Date Of Joining 13­Sep­2010 IFSC Code IDIB000N057**' at line 13
+ The line number:14is validated and same content does not match.
+File1 has '**Date of Birth 10­Jan­1993 ESI Number ­**' and File2 has '**Date of Birth 16­Sep­1987 ESI Number ­**' at line 14
+ The line number:15is validated and same content does not match.
+File1 has '**PF A/C TN/MAS/31309/303559 Status Salary Credited**' and File2 has '**PF A/C TN/MAS/31309/296124 Status Salary Credited**' at line 15
+ The line number:16is validated and same content does not match.
+File1 has '**UAN 100447809299 Available Calendar Days 30**' and File2 has '**UAN 100456769773 Available Calendar Days 30**' at line 16
+ The line number:21is validated and same content does not match.
+File1 has '**Basic 9,975**' and File2 has '**Basic 18,550**' at line 21
+ The line number:22is validated and same content does not match.
+File1 has '**House Rent Allowance 4,725**' and File2 has '**House Rent Allowance 8,500**' at line 22
+ The line number:24is validated and same content does not match.
+File1 has '**Special Allowance 9,003**' and File2 has '**Special Allowance 18,093**' at line 24
+ The line number:33is validated and same content does not match.
+File1 has '**(A) Total Earnings 27,303**' and File2 has '**(A) Total Earnings 48,743**' at line 33
+ The line number:35is validated and same content does not match.
+File1 has '**Provident Fund 1,197**' and File2 has '**Provident Fund 2,226**' at line 35
+ The line number:36is validated and same content does not match.
+File1 has '**TDS 0**' and File2 has '**TDS 2,879**' at line 36
+ The line number:37is validated and same content does not match.
+File1 has '**.**' and File2 has '**Bus­recovery 2,225**' at line 37
+ The line number:38is validated and same content does not match.
+File1 has '**.**' and File2 has '**Chennai Flood Emergency Loan 10,000**' at line 38
+ The line number:47is validated and same content does not match.
+File1 has '**(B) Total Deduction 1,197**' and File2 has '**(B) Total Deduction 17,330**' at line 47
+ The line number:50is validated and same content does not match.
+File1 has '**Net Salary = (A) ­ (B) 26,106**' and File2 has '**Net Salary = (A) ­ (B) 31,413**' at line 50
